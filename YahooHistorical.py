@@ -101,5 +101,3 @@ class YahooHistorical(object):
 if __name__ == "__main__":
     page = YahooHistorical()
     print page.call(['AAPL', 'GOOGL', 'IBM'], "2017-05-10", "2017-05-15")
-
-    pass
