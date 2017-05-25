@@ -9,3 +9,7 @@ xvfbwrapper (to run headless on vps)
 dryscrape  
 fake_useragent  
 lxml  
+
+### Use
+Just pass a list of stock symbols with start and end dates  
+
